@@ -1,4 +1,3 @@
 import React from "react";
-import { HelloWorld } from "./components/HelloWorld";
-
-export const App = () => <HelloWorld />;
+import { Game } from "./components/Game";
+export const App = () => <Game />;
